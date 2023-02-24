@@ -5,6 +5,8 @@ type vendor_proc_tri_state_key, fs_type, proc_type;
 type vendor_persist_camera_file, file_type;
 
 # Charging
+type vendor_proc_fastchg_fw_update, fs_type, proc_type;
+type vendor_proc_ui_soc_decimal, fs_type, proc_type;
 type vendor_proc_wireless, fs_type, proc_type;
 
 # Display
